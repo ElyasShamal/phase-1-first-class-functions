@@ -1,0 +1,7 @@
+
+function receivesAFunction(callback){
+    callback();
+}
+
+
+
